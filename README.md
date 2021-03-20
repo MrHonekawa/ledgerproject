@@ -15,4 +15,4 @@ We would be holding out quite easy structure, in this project offering a bit mor
 Go into files to see what are them! :+1:
 
 ## LedgerStake
-[BCashLedgerStake](https://github.com/MrHonekawa/ledgerproject/blob/main/LedgerStake/LedgerBcashStake.json)
+- [BCashLedgerStake](https://github.com/MrHonekawa/ledgerproject/blob/main/LedgerStake/LedgerBcashStake.json)
