@@ -16,3 +16,4 @@ Go into files to see what are them! :+1:
 
 ## LedgerStake
 - [BCashLedgerStake](https://github.com/MrHonekawa/ledgerproject/blob/main/LedgerStake/LedgerBcashStake.json)
+- [WabbitLedgerStake](https://github.com/MrHonekawa/ledgerproject/blob/main/LedgerStake/LedgerWabbitStake.json)
